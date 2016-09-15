@@ -1,0 +1,39 @@
+body {}
+
+.container {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1em;
+}
+
+.footer {background-color:#2f6a68;
+	height:7em;margin-top:3em;}
+	
+.book {box-shadow:.5em .5em .5em #888888;}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#newlarge {margin-top:.75em;margin-bottom:.75em;font-size:6em;color:#2f6a68;}
+#newmed {margin-top:.75em;margin-bottom:.75em;font-size:6em;color:#2f6a68;}
+#newsm {margin-top:.75em;margin-bottom:.75em;font-size:5em;color:#2f6a68;}
+#newxs {margin-top:.75em;margin-bottom:.75em;font-size:3em;color:#2f6a68;}
+
+#taglg {margin-top:2.5em;margin-bottom:.75em;font-size:2em;color:#2f6a68;}
+#tagmd {margin-top:2em;margin-bottom:.75em;font-size:2em;color:#2f6a68;}
+#tagsm {margin-top:2.5em;margin-bottom:.75em;font-size:1.5em;color:#2f6a68;}
+#tagxs {margin-top:2.75em;margin-bottom:.75em;font-size:1em;color:#2f6a68;}
+
+#socftrlg {margin:auto; width:50%; font-size:3em; color:white; padding-top:.5em;}
+
+
+#tagmd {margin-top:2em;margin-bottom:.75em;font-size:2em;color:#2f6a68;}
+#tagsm {margin-top:2.5em;margin-bottom:.75em;font-size:1.5em;color:#2f6a68;}
+#tagxs {margin-top:2.75em;margin-bottom:.75em;font-size:1em;color:#2f6a68;}
+
